@@ -1,2 +1,2 @@
 # Z Value Calculator
- It calculates the desired Z value or the Z value within a specified range. It is developed using Python and the Python Streamlit library.
+This application, developed using Python and the Python Streamlit library, calculates the desired Z value or the Z values within a specific range, enriching the content by visualizing the results with graphs.
